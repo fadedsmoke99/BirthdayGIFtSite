@@ -69,12 +69,12 @@ h1, h2, h3, h4, p {
 }
 
 #gift3Cover:hover {
-    background: url("badass.gif");
+    background: url("genius.gif");
     background-size: cover;
 }
 
 #gift4Cover:hover {
-    background: url("genius.gif");
+    background: url("badass.gif");
     background-size: cover;
 }
 
